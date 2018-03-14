@@ -36,4 +36,5 @@ python3 walmart_store_retreiver 20005
 
 ## Sample Output
 This will create a CSV file:
+
 [Sample Output](https://raw.githubusercontent.com/scrapehero/walmart_store_locator/master/20005_stores.csv)
