@@ -31,9 +31,9 @@ Python LXML, for parsing the HTML Tree Structure using Xpaths (Learn how to inst
 We will execute the code with the script name followed by the arugument for zip code. here is an example to find the store locations and
 its details in Boston, MA
 
-///
+```
 python3 walmart_store_retreiver.py 20005
-///
+```
 
 ## Sample Output
 This will create a CSV file:
