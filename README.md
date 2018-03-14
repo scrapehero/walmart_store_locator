@@ -1,6 +1,6 @@
 # Walmart Store Locator
 Walmart.com Store Locator Web Scraper written in Python to extract store locations available based on a zip code.
-If you would like to know more about this scraper you can check it out at the blog post 'How to Scrape Store Locations from Walmart using Python' - 
+If you would like to know more about this scraper you can check it out at the blog post 'How to Scrape Store Locations from Walmart using Python' - https://www.scrapehero.com/how-to-scrape-store-locations-from-walmart-com-using-python-3/
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
