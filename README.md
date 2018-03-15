@@ -16,7 +16,7 @@ This walmart scraper can extract the following fields below:
 7. Phone Number
 
 ### Prerequisites
-For this web scraping tutorial usng Python 3, we will need some some packages:
+For this web scraping tutorial using Python 3, we will need some some packages:
 * Python requests
 * UnicodeCSV
 
